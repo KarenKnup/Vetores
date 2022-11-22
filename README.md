@@ -34,4 +34,5 @@ Nota: considerar que não existe repetição no conjunto A, nem no conjunto B.<b
 main 27 - Vetor Bidimensional <br>
 main 28 - Funções e Vetores <br>
 main 29 - Ponteiro e Vetor <br>
-main 30 - Faça um programa que permaneça lendo valores até que o valor 0 seja digitado. Para cada número digitado, o programa deve exibir a quantidade de vezes que o mesmo foi informado em sequência.
+main 30 - Faça um programa que permaneça lendo valores até que o valor 0 seja digitado. Para cada número digitado, o programa deve exibir a quantidade de vezes que o mesmo foi informado em sequência.<br>
+main 31 - Vetor em ordem crescente
