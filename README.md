@@ -36,7 +36,8 @@ main 28 - Funções e Vetores <br>
 main 29 - Ponteiro e Vetor <br>
 main 30 - Faça um programa que permaneça lendo valores até que o valor 0 seja digitado. Para cada número digitado, o programa deve exibir a quantidade de vezes que o mesmo foi informado em sequência.<br>
 main 31 - Vetor em ordem crescente<br>
-main 32 - Quick Sort <br><br><br>
+main 32 - Quick Sort <br>
+main 33 - Insertion Sort<br><br>
 
 ---------- VETOR DE BUSCA ------------<br>
 main 33 - Exibir quantidade de números em cada posição entre 20 e 30 <br>
