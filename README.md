@@ -38,7 +38,8 @@ main 30 - Faça um programa que permaneça lendo valores até que o valor 0 seja
 main 31 - Vetor em ordem crescente<br>
 main 32 - Quick Sort <br>
 main 34 - Insertion Sort<br>
-main 35 - Bubble Sort
+main 35 - Bubble Sort <br>
+main 36 - Selection Sort
 <br><br>
 
 ---------- VETOR DE BUSCA ------------<br>
