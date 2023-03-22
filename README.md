@@ -39,7 +39,8 @@ main 31 - Vetor em ordem crescente<br>
 main 32 - Quick Sort <br>
 main 34 - Insertion Sort<br>
 main 35 - Bubble Sort <br>
-main 36 - Selection Sort
+main 36 - Selection Sort <br>
+main 37 - CRUDE com Vetor alocado de modo dinâmico 
 <br><br>
 
 ---------- VETOR DE BUSCA ------------<br>
